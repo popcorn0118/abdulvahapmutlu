@@ -73,7 +73,7 @@ My approach centers on **reproducibility**, **operational excellence**, and **re
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="64" height="64" alt="Kubernetes"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64" height="64" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="64" height="64" alt="GitLab"/>
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-white.png" width="64" height="64" alt="GitHub"/>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="64" height="64" alt="GitHub"/>
 </div>
 
 ---
