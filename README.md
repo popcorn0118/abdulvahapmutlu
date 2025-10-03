@@ -103,27 +103,32 @@ My approach centers on **reproducibility**, **operational excellence**, and **re
 </a>
 </td>
 <td>
-<a href="https://github.com/abdulvahapmutlu/quantlab-8bit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulvahapmutlu&repo=quantlab-8bit&theme=gotham&hide_border=false&border_radius=12" alt="QuantLab-8bit"/>
+<a href="https://github.com/abdulvahapmutlu/orbit-boost">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulvahapmutlu&repo=orbit-boost&theme=gotham&hide_border=false&border_radius=12" alt="Orbit-Boost"/>
 </a>
 </td>
 </tr>
 
 <tr>
+<td>
+<a href="https://github.com/abdulvahapmutlu/quantlab-8bit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulvahapmutlu&repo=quantlab-8bit&theme=gotham&hide_border=false&border_radius=12" alt="QuantLab-8bit"/>
+</a>
+</td>
 <td>
 <a href="https://github.com/abdulvahapmutlu/edge-serve-ab">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulvahapmutlu&repo=edge-serve-ab&theme=gotham&hide_border=false&border_radius=12" alt="Edge-Serve"/>
 </a>
 </td>
+</tr>
+
+<tr>
 <td>
 <a href="https://github.com/abdulvahapmutlu/research-agent">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulvahapmutlu&repo=research-agent&theme=gotham&hide_border=false&border_radius=12" alt="Research-Agent"/>
 </a>
 </td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
+<td>
 <a href="https://github.com/abdulvahapmutlu/als-synthetic-data-augmentation-wgan">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulvahapmutlu&repo=als-synthetic-data-augmentation-wgan&theme=gotham&hide_border=false&border_radius=12" alt="ALS-Synthetic"/>
 </a>
